@@ -1,27 +1,27 @@
 {
   "schemaVersion": 1,
-  "publishedAt": "2026-05-23T13:48:26.608Z",
+  "publishedAt": "2026-05-23T15:23:48.043Z",
   "android": {
     "sideload": {
-      "version": "0.0.1",
-      "versionCode": 1,
-      "apkUrl": "https://github.com/flick-service/flick-releases/releases/download/v0.0.1/Flick-0.0.1.apk",
-      "sha256": "ce7bc5fce4e1d4b57784303fdc322064138e566c5a7c086a8edd8b4a0d1ae2af",
-      "releaseNotes": "Flick Beta Program"
+      "version": "0.0.2",
+      "versionCode": 2,
+      "apkUrl": "https://github.com/flick-service/flick-releases/releases/download/v0.0.2/Flick-0.0.2.apk",
+      "sha256": "ef87138344cb6128613fe9833aab107ea563c0a60b271e5c93de9d939c8d4c79",
+      "releaseNotes": "Flick Beta 0.0.2"
     },
     "play": {
-      "version": "0.0.1",
-      "versionCode": 1,
+      "version": "0.0.2",
+      "versionCode": 2,
       "storeUrl": "https://play.google.com/store/apps/details?id=com.flick.app"
     }
   },
   "desktop": {
     "windows": {
-      "version": "0.0.1",
-      "pubDate": "2026-05-23T13:48:26.608Z",
-      "installerUrl": "https://github.com/flick-service/flick-releases/releases/download/v0.0.1/Flick-Desktop-0.0.1-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTNlNDeFBHTTJqd21tTWE5WEpPeWJsbktlUm1EekoxMHNta1Q4ZHZBRjU5Sk15TE9WUWlWeG5tTm5SMVBtNnF0cFlTRDgyVTI3cXgwd3Z2c2p5citGb0dqQnREQ1k3RHdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5NTQ0MDc1CWZpbGU6RmxpY2stRGVza3RvcC0wLjAuMS1zZXR1cC5leGUKblBVVlFYaVJoNGJwZzBROThsaWNhODZsbUhleEwrK0hYRDMxdTZUTVIxbGVlSVlyaGw5SE9naDJDdGg4U28yYkJzaVYrSDVQTUpLbEJRZTJSckNHQkE9PQo=",
-      "releaseNotes": "Flick Beta Program"
+      "version": "0.0.2",
+      "pubDate": "2026-05-23T15:23:48.043Z",
+      "installerUrl": "https://github.com/flick-service/flick-releases/releases/download/v0.0.2/Flick-Desktop-0.0.2-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTNlNDeFBHTTJqd2hZSGQvZ2VJVXdwYlQ0QzlxTzZnZGsrYnZVODhkaE1OSG9yZUFseWtpQWV0dHh5SU0rV0h2T2d6ejY4d0NRTXptai96NXRRM2NJZWFvWHhCYzRmU1FJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5NTQ5ODI3CWZpbGU6RmxpY2stRGVza3RvcC0wLjAuMi1zZXR1cC5leGUKT3krTDlJVWxJM242MHJBYys3eWpZeWQ5eWFVOE1Pa2xMTjBITTdGeEZraXU0S0lHVDRISCtWajIrem9nZ0FFcmxMZUlpL3g2R3RTVGl2MGhSck92Q2c9PQo=",
+      "releaseNotes": "Flick Beta 0.0.2"
     }
   }
 }
