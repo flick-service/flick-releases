@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "publishedAt": "2026-05-23T13:48:26.608Z",
+  "android": {
+    "sideload": {
+      "version": "0.0.1",
+      "versionCode": 1,
+      "apkUrl": "https://github.com/flick-service/flick-releases/releases/download/v0.0.1/Flick-0.0.1.apk",
+      "sha256": "ce7bc5fce4e1d4b57784303fdc322064138e566c5a7c086a8edd8b4a0d1ae2af",
+      "releaseNotes": "Flick Beta Program"
+    },
+    "play": {
+      "version": "0.0.1",
+      "versionCode": 1,
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.flick.app"
+    }
+  },
+  "desktop": {
+    "windows": {
+      "version": "0.0.1",
+      "pubDate": "2026-05-23T13:48:26.608Z",
+      "installerUrl": "https://github.com/flick-service/flick-releases/releases/download/v0.0.1/Flick-Desktop-0.0.1-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTNlNDeFBHTTJqd21tTWE5WEpPeWJsbktlUm1EekoxMHNta1Q4ZHZBRjU5Sk15TE9WUWlWeG5tTm5SMVBtNnF0cFlTRDgyVTI3cXgwd3Z2c2p5citGb0dqQnREQ1k3RHdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5NTQ0MDc1CWZpbGU6RmxpY2stRGVza3RvcC0wLjAuMS1zZXR1cC5leGUKblBVVlFYaVJoNGJwZzBROThsaWNhODZsbUhleEwrK0hYRDMxdTZUTVIxbGVlSVlyaGw5SE9naDJDdGg4U28yYkJzaVYrSDVQTUpLbEJRZTJSckNHQkE9PQo=",
+      "releaseNotes": "Flick Beta Program"
+    }
+  }
+}
