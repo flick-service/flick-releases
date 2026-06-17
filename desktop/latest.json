@@ -1,11 +1,11 @@
 {
-  "version": "0.2.1",
-  "notes": "Release Beta v0.2.1",
-  "pub_date": "2026-06-16T00:40:49.611Z",
+  "version": "0.2.2",
+  "notes": "Release Beta v0.2.2",
+  "pub_date": "2026-06-17T23:19:26.656Z",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/flick-service/flick-releases/releases/download/v0.2.1/Flick-Desktop-0.2.1-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTNlNDeFBHTTJqd2doWDJDWXN5S0FjM0lrZUJseUdMcnVqVk5sbjlRN0JMZzB4QTk2Ny9PR2FsSkowYTcxaHBQSWJ4YkhrdGFpbDlXZm1sZzh5MGNoS0RJQWRlQWRQa2dNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxNTcwNDQ5CWZpbGU6RmxpY2sgRGVza3RvcF8wLjIuMV94NjQtc2V0dXAuZXhlCjV3MGZ5WGZUdk4xK041QWYyVTdtZUxqM3Bpd1NVWThaL2J1cTlzc2tYK1k5d1VkaTJiZjhrcjdhR3lBS1p5UUJ6aE9nM0JyRmdRNU9NTEYzVUQ2QUFRPT0K"
+      "url": "https://github.com/flick-service/flick-releases/releases/download/v0.2.2/Flick-Desktop-0.2.2-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTNlNDeFBHTTJqd21EMkNZb2VqQk93ZEIrc2lOUko2NmRKYnRoSnQ2WEdYbGVtT2dJYXN5R1lEaFpQdGVvbDdTbWYrckJpN2gxbTBVUXdoR0V5b0M5cHJ5QkQ0Vk1lZFFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxNzM4MzY2CWZpbGU6RmxpY2sgRGVza3RvcF8wLjIuMl94NjQtc2V0dXAuZXhlCmtKVEhuelVKblNQR0xpUFVwU2c1OVBKam5xcnNqUGVPYll0WmNuSTUzMDFMZXJKd1Q5aHNUNHhqSFJlbjB4Tmd2aGN4dUZ6ejFIRCtnVDN2Uk9KNEJBPT0K"
     }
   }
 }
