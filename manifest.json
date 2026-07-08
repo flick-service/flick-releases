@@ -1,27 +1,27 @@
 {
   "schemaVersion": 1,
-  "publishedAt": "2026-07-07T19:47:33.475Z",
+  "publishedAt": "2026-07-08T01:28:55.461Z",
   "android": {
     "sideload": {
-      "version": "0.2.68",
-      "versionCode": 268,
-      "apkUrl": "https://github.com/flick-service/flick-releases/releases/download/v0.2.68/Flick-0.2.68.apk",
-      "sha256": "2d1f77b304bb6e9ec90925aa637d3c2c18ede69cc6d2b9165887b9574485ae35",
-      "releaseNotes": "Release Beta v0.2.68"
+      "version": "0.2.69",
+      "versionCode": 269,
+      "apkUrl": "https://github.com/flick-service/flick-releases/releases/download/v0.2.69/Flick-0.2.69.apk",
+      "sha256": "24134cb5e803ca337f145a9f34f7ff69bf8a33c850ec9d3b75250cef3f94da1c",
+      "releaseNotes": "Release Beta v0.2.69"
     },
     "play": {
-      "version": "0.2.68",
-      "versionCode": 268,
+      "version": "0.2.69",
+      "versionCode": 269,
       "storeUrl": "https://play.google.com/store/apps/details?id=com.flick.app"
     }
   },
   "desktop": {
     "windows": {
-      "version": "0.2.68",
-      "pubDate": "2026-07-07T19:47:33.475Z",
-      "installerUrl": "https://github.com/flick-service/flick-releases/releases/download/v0.2.68/Flick-Desktop-0.2.68-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTNlNDeFBHTTJqd29HWW9tNGx0RjhaVVQydFFuVzdZTzdLcU1lOUFvNmw3SG9mOXNTSHpRcEp4ZHdrWk5IQ1c0TC9GWEd0Wk9HclpSMWl5YmdPTUhMTUlURzFJZjhsYUFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzNDUzNjUxCWZpbGU6RmxpY2sgRGVza3RvcF8wLjIuNjhfeDY0LXNldHVwLmV4ZQpYejVjbmU5MzhydnB0UWpEUEwyYWZkbGo4Y1pVK2F1VU5hNC9KQlVsN2FqS3NEYXZYekRrUTRzc1pIZFdnZ29yNnA5U0xjNDNvYWZkNDdWN284R3FCZz09Cg==",
-      "releaseNotes": "Release Beta v0.2.68"
+      "version": "0.2.69",
+      "pubDate": "2026-07-08T01:28:55.461Z",
+      "installerUrl": "https://github.com/flick-service/flick-releases/releases/download/v0.2.69/Flick-Desktop-0.2.69-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTNlNDeFBHTTJqd2l0b3dOdmZlVU55bG1LSTlEZ0xDSVZXcjY5YlIxRGFDU1hBaG5taU11bTRHeSszUFNxaVRWaXYvYXdHR2hVS2FLMVMzaEV1Q0VoRGYrNmRiMm5sMVFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzNDc0MTMzCWZpbGU6RmxpY2sgRGVza3RvcF8wLjIuNjlfeDY0LXNldHVwLmV4ZQpOSVpVaVJtcU9qdmhUL2hQVVFEdnZyVE50bUxMYmJzUERCL3NUaTBWaHBWc0kxT3J1VGNxQU5VN0Iwb0hWdG9vcE1KNWlWMFJ1cURhclh5UXZVL1BEUT09Cg==",
+      "releaseNotes": "Release Beta v0.2.69"
     }
   }
 }
