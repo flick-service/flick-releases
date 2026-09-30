@@ -1,26 +1,26 @@
 {
   "schemaVersion": 1,
-  "publishedAt": "2026-09-30T09:40:56.820Z",
+  "publishedAt": "2026-09-30T12:59:08.057Z",
   "android": {
     "sideload": {
-      "version": "0.2.74",
-      "versionCode": 274,
-      "apkUrl": "https://github.com/flick-service/flick-releases/releases/download/v0.2.74/Flick-0.2.74.apk",
-      "sha256": "8210fd7bd2a212edb3f40582d44f189744122b53dd8ef0b81cdd724065da4fd6",
+      "version": "0.2.75",
+      "versionCode": 275,
+      "apkUrl": "https://github.com/flick-service/flick-releases/releases/download/v0.2.75/Flick-0.2.75.apk",
+      "sha256": "38630c5c0abb0efaecdc1c9aa4653916d4f2727375ead4e164fe57149b3bbdc9",
       "releaseNotes": ""
     },
     "play": {
-      "version": "0.2.74",
-      "versionCode": 274,
+      "version": "0.2.75",
+      "versionCode": 275,
       "storeUrl": "https://play.google.com/store/apps/details?id=com.flick.app"
     }
   },
   "desktop": {
     "windows": {
-      "version": "0.2.74",
-      "pubDate": "2026-09-30T09:40:56.820Z",
-      "installerUrl": "https://github.com/flick-service/flick-releases/releases/download/v0.2.74/Flick-Desktop-0.2.74-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTNlNDeFBHTTJqd29mY1k5MGVWTWVMT0QxL0xZMmdrZTIvWGZKem5jUXNwaHh0TWVEL1oyWTh0WTJ2VUsrTnRURDF4VFEvV20xMHZqR09VWWEweGxucjNyZ2lweTNYMndRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNzYxMjU2CWZpbGU6RmxpY2sgRGVza3RvcF8wLjIuNzRfeDY0LXNldHVwLmV4ZQplQmc1akZydTJzYkpIK1pERENWSkMyTUw5WVBGem5tdmx1ckh1Ym9qRExnTnIydTNkS1B6dVg3aUk5UFhrOWp4UTZUcGxBZ3FrUFQvU2xnaFhFY0dDdz09Cg==",
+      "version": "0.2.75",
+      "pubDate": "2026-09-30T12:59:08.057Z",
+      "installerUrl": "https://github.com/flick-service/flick-releases/releases/download/v0.2.75/Flick-Desktop-0.2.75-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTNlNDeFBHTTJqd29EOTFiR0hvZzAyOVlpNkdTTUc1M1p0dURjb2FoMllsYmxaT29sM2tIQzczTDBKNUI2Zi9tQU1DVTVaSUJGenZteTc0UWE4MWs3Q3NoVy9jcWsvZlFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNzczMTQ3CWZpbGU6RmxpY2sgRGVza3RvcF8wLjIuNzVfeDY0LXNldHVwLmV4ZQpjYkVpVjEyM2pxSjFUWlA5M1NyRjhKQVRZSHhsY1FGOHNBYnR5OG9PbStsQlBaS0MwZllncEo5Y1czUHd3dzI4b1FpNHEzR3dtS09VeWJpbUxjQXZBUT09Cg==",
       "releaseNotes": ""
     }
   }
