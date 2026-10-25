@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "publishedAt": "2026-10-20T17:10:01.378Z",
+  "publishedAt": "2026-10-25T17:23:40.606Z",
   "android": {
     "sideload": {
       "version": "0.2.77",
@@ -13,6 +13,15 @@
       "version": "0.2.77",
       "versionCode": 277,
       "storeUrl": "https://play.google.com/store/apps/details?id=com.flick.app"
+    },
+    "client": {
+      "sideload": {
+        "version": "0.1.0",
+        "versionCode": 100,
+        "apkUrl": "https://github.com/flick-service/flick-releases/releases/download/client-v0.1.0/Flick-0.1.0.apk",
+        "sha256": "c78f023e66e0eb9a94515b389d02a37affd9ab29533037d8493ea91489c16b22",
+        "releaseNotes": ""
+      }
     }
   },
   "desktop": {
